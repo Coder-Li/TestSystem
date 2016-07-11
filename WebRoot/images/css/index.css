@@ -1,0 +1,18 @@
+body {
+
+}
+
+a {
+	color: fff;
+	text-decoration: none;
+}
+a:HOVER {
+	color:red;
+}
+
+.div2{
+	margin-top: 130px
+}
+.add{
+	margin-top: 20px;
+}
